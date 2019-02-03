@@ -1,8 +1,0 @@
-[02-Feb-2019 01:53:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Authenticator\GoogleAuthenticator' not found in /home/instinct/public_html/webrtc/2fa.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/instinct/public_html/webrtc/2fa.php on line 2
-[02-Feb-2019 01:54:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Google\Authenticator\GoogleAuthenticator' not found in /home/instinct/public_html/webrtc/2fa.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/instinct/public_html/webrtc/2fa.php on line 2
