@@ -1,0 +1,14 @@
+
+<!-- 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+--> 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Not Found | Redirect</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="3;url=https://instinctme.com">
+</head>
+<p>Not found</p>
+<p>This page will re-direct you to <a href="https://instinctme.com">Instinctme.com</a></p>
+</p>

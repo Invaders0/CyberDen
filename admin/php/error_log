@@ -1,0 +1,2 @@
+[16-Sep-2018 18:50:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/instinct/public_html/admin/php/connect.php on line 2
+[16-Sep-2018 18:50:20 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/instinct/public_html/admin/php/admin_login.php on line 15

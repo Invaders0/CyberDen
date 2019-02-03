@@ -1,0 +1,59 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+body {
+    background: #fafafa;
+    padding:0px;
+    margin:0px;
+}
+.navbar {
+    padding: 0px 0px;
+    background: #fff;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 50px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    padding : 0px!important;
+    margin : 0px !important;
+}
+
+.navbar .navbar-nav li a {
+	margin :0px;
+	padding: 0px;
+	line-height: 60px;
+	color : lightblue;
+}
+.navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus, .navbar .active{
+  box-shadow: 0px -3px 0px rgb(112,172,208) inset;
+}
+ .dropdown-toggle::after {
+  display: inline-block;
+  width: 0;
+  height: 0;
+}
+
+.dropdown-toggle:empty::after {
+  margin-left: 0;
+}
+ .dropdown-toggle:focus{
+	outline : none!important;
+	box-shadow: 0px -3px 0px rgb(102,176,182) inset;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
+  float: left;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 0.25rem;
+}
+.dropdown-item {
+  display: block;
+  width: 100%;
+  color: #212529;
+  background-color: transparent;
+  border: 0;
+  padding-left : 10px!important;
+  vertical-align: middle;
+}
